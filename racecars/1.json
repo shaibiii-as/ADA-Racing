@@ -1,0 +1,10 @@
+{
+  "name": "NV1",
+  "metadataPlaceHolder":[
+    {"name":"nft_series","value":"1 OF 56"},
+    {"name":"nft_canvasSize","value":"150X100cm"},
+    {"name":"nft_type","value":"Acrylic"},
+    {"name":"nft_background","value":"Red"},
+    {"name":"nft_tier","value":"AdaSwap Platinum"}
+  ]
+}

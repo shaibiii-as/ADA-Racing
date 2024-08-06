@@ -1,0 +1,12 @@
+{
+  "name": "INDIAN MAN",
+  "price": "5000",
+  "fee": "7.5%",
+  "metadataPlaceHolder":[
+    {"name":"nft_series","value":"2 OF 56"},
+    {"name":"nft_canvasSize","value":"100X70CM"},
+    {"name":"nft_type","value":"ACRYLIC"},
+    {"name":"nft_background","value":"PURPLE"},
+    {"name":"nft_tier","value":"AdaSwap GOLD"}
+  ]
+}
